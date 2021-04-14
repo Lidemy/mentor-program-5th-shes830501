@@ -1,4 +1,3 @@
-
 ## 交作業流程
 
 1. 點選"如何交作業"影片中的連結進入頁面
@@ -18,8 +17,8 @@
 >**`ls`**
 
 7. 再切換至進此資料夾 : 
->**`cd mentor-program-5th-shes830501`**
->**`cd homeworks`**
+>**`cd mentor-program-5th-shes830501`**  
+>**`cd homeworks`**  
 >**`cd week1`**
 
 8. 新開一個 branch 並切換進去 : 
