@@ -44,6 +44,6 @@
 15. 而**Github**上傳區的網址即為 **PR連結** ，將其複製下來 :
 >**複製 PR連結 **
 
-16. 進入[Lidemy Learning System](https://learning.lidemy.com/invite/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZW1lc3RlciI6NSwicm9sZSI6InN0dWRlbnQiLCJwcmljZVR5cGUiOiJBIiwiZXhwIjoxNjIwNjEyMzc5LCJpYXQiOjE2MTgwMjAzNzl9.aZP-9aP2YYWJQrd1n7iuFFCUdyPjEE4UBgxMk7w89e4?_ga=2.245136261.1616786564.1618124867-1278495290.1615717895)，點擊 **作業列表** ，再點開其中的 **新增作業** ，將上述步驟複製下的網址貼至 **PR連結** ，即完成繳交
+16. 進入[Lidemy Learning System](https://learning.lidemy.com/homeworks)，點擊 **作業列表** ，再點開其中的 **新增作業** ，將上述步驟複製下的網址貼至 **PR連結** ，即完成繳交
 >**進入Lidemy Learning System > 作業列表 > 新增作業 > 貼上PR連結 > 繳交完成**
 
