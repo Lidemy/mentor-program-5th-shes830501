@@ -18,7 +18,7 @@
 >**`ls`**
 
 7. 再切換至進此資料夾 : 
->**`cd mentor-program-5th-shes830501.git`**
+>**`cd mentor-program-5th-shes830501`**
 
 8. 新開一個 branch 並切換進去 : 
 >**`git branch -b week1`**
