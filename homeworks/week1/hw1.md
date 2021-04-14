@@ -35,11 +35,11 @@
 12. 再上傳 : 
 >**`git push origin week1`**
 
-13. 在 ***GitHub*** ，點擊 ***Pull request*** 並進入後，改標題名稱為 **第一週作業**，有任何問題都可在下方留言 : 
->**GitHub > Pull request > 改標題名稱 > 問題留言**
+13. 在 ***GitHub*** ，點擊 ***Pull request*** 並進入後，改標題名稱為 **第一週作業**，點選右下方綠色 **Create pull request**`,若有任何問題都可在下方留言 : 
+>**GitHub > Pull request > 改標題名稱 > reate pull request > 問題留言**
 
-14. 若檢查作業有錯誤，在電腦的檔案中修正好再上傳即可 :
->**`git commit -am "update hw1"`**
+14. 若點選 **File changed** 檢查作業有誤，在電腦的檔案中修正好再上傳 **branch - week1** 即可 :
+>**File changed > `git commit -am "update hw1"` > branch - week1**
 
 15. 而**Github**上傳區的網址即為 **PR連結** ，將其複製下來 :
 >**複製 PR連結 **
