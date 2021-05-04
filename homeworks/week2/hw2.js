@@ -1,5 +1,16 @@
-function capitalize(str) {
-  
+function capitalize(str){
+	var strTemp = ''
+	var result = ''
+	for(var i = 1; i < str.length; i++) {
+		strTemp += str[i]
+	}	
+
+	result = str[0].toUpperCase() + strTemp
+
+	return result
 }
 
-console.log(capitalize('hello'));
+
+capitalize('nick')
+capitalize('Nick')
+capitalize(',hello')
